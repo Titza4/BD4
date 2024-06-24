@@ -45,4 +45,4 @@ https://docs.google.com/document/d/1joDG0RZNOu3uTyo-Ie8Kl9foycKEgghjiof9gRQhAfc/
 
 скртификат stepik:
 
-https://moodle.herzen.spb.ru/pluginfile.php/1683332/assignsubmission_file/submission_files/6554249/stepik-certificate-63054-fbdd555.pdf?forcedownload=1
+[stepik-certificate-63054-fbdd555 (1).pdf](https://github.com/user-attachments/files/15958478/stepik-certificate-63054-fbdd555.1.pdf)
