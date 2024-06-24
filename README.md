@@ -45,4 +45,5 @@ https://docs.google.com/document/d/1joDG0RZNOu3uTyo-Ie8Kl9foycKEgghjiof9gRQhAfc/
 
 скртификат stepik:
 
-[stepik-certificate-63054-fbdd555 (1).pdf](https://github.com/user-attachments/files/15958478/stepik-certificate-63054-fbdd555.1.pdf)
+![image](https://github.com/Titza4/BD4/assets/125657914/c864e232-c416-4891-9fd1-653151fbc30e)
+
